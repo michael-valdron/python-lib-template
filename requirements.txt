@@ -33,7 +33,7 @@ sphinxcontrib-applehelp==1.0.8
 sphinxcontrib-devhelp==1.0.6
 sphinxcontrib-htmlhelp==1.0.3
 sphinxcontrib-jsmath==1.0.1
-sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-qthelp==1.0.8
 sphinxcontrib-serializinghtml==1.1.4
 urllib3==1.25.8
 webencodings==0.5.1
