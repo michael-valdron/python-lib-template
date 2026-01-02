@@ -9,7 +9,7 @@ contextlib2==0.6.0.post1
 distlib==0.3.0
 distro==1.4.0
 docutils==0.16
-html5lib==1.0.1
+html5lib==1.1
 idna==2.8
 imagesize==1.2.0
 ipaddr==2.2.0
