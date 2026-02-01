@@ -11,7 +11,7 @@ distro==1.4.0
 docutils==0.16
 html5lib==1.0.1
 idna==2.8
-imagesize==1.2.0
+imagesize==1.4.1
 ipaddr==2.2.0
 Jinja2==2.11.3
 lockfile==0.12.2
